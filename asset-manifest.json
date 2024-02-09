@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.ff461bb8.css",
-    "main.js": "/portofolio/static/js/main.33267de1.js",
+    "main.js": "/portofolio/static/js/main.dc0e1798.js",
     "static/js/787.8e980b37.chunk.js": "/portofolio/static/js/787.8e980b37.chunk.js",
     "static/media/mesin5.jpg": "/portofolio/static/media/mesin5.6815d404533b53601635.jpg",
     "static/media/mesin4.jpg": "/portofolio/static/media/mesin4.4f080f146b5d0ed01e77.jpg",
@@ -14,19 +14,16 @@
     "static/media/img-2.jpg": "/portofolio/static/media/img-2.cc1f834bd3caf1ba3353.jpg",
     "static/media/img-6.jpg": "/portofolio/static/media/img-6.ff2c86e6e1aa573a064c.jpg",
     "static/media/img-4.jpg": "/portofolio/static/media/img-4.d0f776d650635fe6013a.jpg",
-    "static/media/macbook2.jpg": "/portofolio/static/media/macbook2.479b23f8ad38fd0cc3e9.jpg",
     "static/media/project1.jpg": "/portofolio/static/media/project1.8888afb3351ee36db18d.jpg",
     "static/media/project2.jpg": "/portofolio/static/media/project2.bac1ee7f68523af18df0.jpg",
-    "static/media/macbook4.jpg": "/portofolio/static/media/macbook4.a42c4a2c3c525b3b9d57.jpg",
-    "static/media/macbook5.jpg": "/portofolio/static/media/macbook5.ac5436e5026e65fe059c.jpg",
     "static/media/mesin2.jpg": "/portofolio/static/media/mesin2.da856485312a50b4a9c2.jpg",
     "index.html": "/portofolio/index.html",
     "main.ff461bb8.css.map": "/portofolio/static/css/main.ff461bb8.css.map",
-    "main.33267de1.js.map": "/portofolio/static/js/main.33267de1.js.map",
+    "main.dc0e1798.js.map": "/portofolio/static/js/main.dc0e1798.js.map",
     "787.8e980b37.chunk.js.map": "/portofolio/static/js/787.8e980b37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff461bb8.css",
-    "static/js/main.33267de1.js"
+    "static/js/main.dc0e1798.js"
   ]
 }
